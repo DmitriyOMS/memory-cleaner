@@ -1,0 +1,14 @@
+**/bin/
+**/obj/
+.vs/
+.vscode/
+node_modules/
+.chrome-pdf-profile/
+*.user
+*.suo
+
+/server.js
+/package.json
+/package-lock.json
+/scripts/
+/public/index.html

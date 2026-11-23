@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>MemoryCleaner</AssemblyName>
+    <RootNamespace>MemoryCleaner</RootNamespace>
+    <ApplicationIcon>assets\icon.ico</ApplicationIcon>
+    <Version>2.0.0</Version>
+    <Description>Переносимый диспетчер выгрузки памяти Windows</Description>
+  </PropertyGroup>
+  <ItemGroup>
+    <Resource Include="..\public\icon.png" Link="assets\icon.png" />
+  </ItemGroup>
+</Project>

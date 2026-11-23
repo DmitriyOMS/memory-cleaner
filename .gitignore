@@ -12,3 +12,8 @@ node_modules/
 /package-lock.json
 /scripts/
 /public/index.html
+
+/MemoryCleaner.exe
+/installer/.tools/
+/installer/output/
+/installer/.test/
